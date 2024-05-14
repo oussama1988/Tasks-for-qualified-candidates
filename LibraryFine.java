@@ -33,6 +33,6 @@ public class LibraryFine {
 	public static void main(String[] args) {
 		int d1 = 7, m1 = 4, y1 = 2023;
 		int d2 = 3, m2 = 4, y2 = 2023;
-		System.out.println(libraryFine(d1, m1, y1, d2, m2, y2)); // Output: 60
+		System.out.println(libraryFine(d1, m1, y1, d2, m2, y2)); 
 	}
 }

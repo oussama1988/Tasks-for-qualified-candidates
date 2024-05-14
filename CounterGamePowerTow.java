@@ -26,6 +26,6 @@ public class CounterGamePowerTow {
 
 	public static void main(String[] args) {
 		long n = 6;
-		System.out.println(counterGame(n)); // Output: "Naser"
+		System.out.println(counterGame(n)); 
 	}
 }

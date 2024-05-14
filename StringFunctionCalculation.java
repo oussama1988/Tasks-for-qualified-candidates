@@ -34,9 +34,9 @@ public class StringFunctionCalculation {
 
 	    public static void main(String[] args) {
 	        String t = "aaaaaa";
-	        System.out.println(maximumValue(t)); // Output: 12
+	        System.out.println(maximumValue(t)); 
 
 	        t = "abcabcddd";
-	        System.out.println(maximumValue(t)); // Output: 9
+	        System.out.println(maximumValue(t)); 
 	    }
 }
